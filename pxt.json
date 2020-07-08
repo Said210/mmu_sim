@@ -8,9 +8,10 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "comps.ts"
+        "comps.ts",
+        "MMUs.ts"
     ],
-    "preferredEditor": "blocksprj",
+    "preferredEditor": "tsprj",
     "testFiles": [
         "test.ts"
     ]
